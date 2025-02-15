@@ -10,7 +10,7 @@ This project is designed to Dataworks Solutions of IIT Madras. It includes vario
 ## Requirements
 
 - Python 3.12
-- [List other dependencies]
+
 
 ## Installation
 
@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- [List any acknowledgements, inspirations, etc.]
+
