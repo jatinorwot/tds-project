@@ -1,0 +1,8 @@
+.python-version
+pyproject.toml
+requirements.txt
+uv.lock
+.gitignore
+datagen.py
+Dataworks_Sol_Env
+.env
